@@ -27,5 +27,3 @@ This project is open-source and available under the MIT License.
 
 Enjoy using the Car Rental App!
 
-## GİF
-![chrome-capture-2023-9-13 (1)](https://github.com/Halismelih1/TS-Project-Rent/assets/125564176/39ebb905-3d6c-4c03-924f-f04fcc6364ff)
